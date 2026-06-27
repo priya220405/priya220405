@@ -66,6 +66,7 @@
 
 | Platform | Link |
 | :--- | :--- |
+| **Portfolio** | [tech-showcase-live.vercel.app](https://tech-showcase-live.vercel.app/) |
 | **LinkedIn** | [linkedin.com/in/priyadharshini220405](https://linkedin.com/in/priyadharshini220405) |
 | **Email** | `priyapd220405@gmail.com` |
 
